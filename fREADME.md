@@ -3,6 +3,7 @@
 Antes de enviar seu código para o GitHub, você precisa inicializar um repositório Git na pasta do seu projeto. Isso cria um histórico de todas as alterações que você fizer.
 
 1. Inicializar um Novo Repositório (EXPLICAÇÕES DOS COMANDOS APÓS CRIAÇÃO DE REP.)
+
      Aqui está o que cada comando faz na primeira opção, para criar um novo repositório:
 
         echo "# TEST_GIT" >> README.md: Cria um arquivo chamado README.md e adiciona o texto "# TEST_GIT" a ele. O README.md geralmente contém uma descrição do seu projeto.
@@ -20,6 +21,7 @@ Antes de enviar seu código para o GitHub, você precisa inicializar um reposit�
         git push -u origin main: Envia (ou push) as alterações do seu repositório local para o repositório remoto no GitHub. O -u define o origin main como a branch padrão, então nas próximas vezes você pode usar apenas git push.
 
 2. Enviar um Repositório Existente (EXPLICAÇÕES DOS COMANDOS APÓS CRIAÇÃO DE REP.)
+
      Já esta segunda opção é para quando você já tem um projeto com Git iniciado localmente e quer conectá-lo e enviá-lo para o GitHub:
 
         git remote add origin https://github.com/marcelohm357/TEST_GIT.git: Assim como na primeira opção, este comando conecta seu repositório local com o repositório remoto no GitHub.
