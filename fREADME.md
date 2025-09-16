@@ -65,6 +65,7 @@ Este guia cobre os passos para iniciar um novo projeto Flutter e conectá-lo a u
     I- O VS Code será aberto na pasta do seu repositório, que ainda estará vazia.
 
 5. Adicione a Estrutura do Projeto Flutter
+
         A- Aqui, você vai usar o comando do Flutter para gerar as pastas necessárias.
 
         B- Abra o Terminal do VS Code (Ctrl + '). Certifique-se de que o terminal está na pasta do seu repositório.
