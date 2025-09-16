@@ -28,6 +28,8 @@ Antes de enviar seu código para o GitHub, você precisa inicializar um reposit�
 
         git push -u origin main: Envia seu repositório local para o GitHub.
 
+Este guia cobre os passos para iniciar um novo projeto Flutter e conectá-lo a um repositório Git, usando o VS Code como ambiente principal e o GitHub Desktop para gerenciar o repositório.
+
 3. Crie o Repositório no GitHub
 
     A- Primeiro, crie um novo repositório vazio diretamente no GitHub.
@@ -39,8 +41,6 @@ Antes de enviar seu código para o GitHub, você precisa inicializar um reposit�
     D-  Não marque a opção "Add a README file" ou ".gitignore". Deixe o repositório vazio.
 
     E- Clique em "Create repository".
-
-Este guia cobre os passos para iniciar um novo projeto Flutter e conectá-lo a um repositório Git, usando o VS Code como ambiente principal e o GitHub Desktop para gerenciar o repositório.
 
 4. Clone o Repositório para o seu Computador com o GitHub Desktop
     
