@@ -1,16 +1,8 @@
 # testgit
 
-A new Flutter project.
+# Bem-vindo ao meu repositório de aprendizado!
+Este repositório (test_git) é o meu projeto pessoal para documentar a jornada de aprendizado sobre Git, GitHub e Flutter usando o VS Code.
 
-## Getting Started
+O objetivo é registrar o processo de como iniciar e gerenciar um projeto Flutter do zero, desde a criação do repositório no GitHub até a configuração completa da estrutura de pastas.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Sinta-se à vontade para acompanhar meu progresso e usar este material como referência para a sua própria jornada.
