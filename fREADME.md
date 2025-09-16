@@ -34,33 +34,33 @@ Este guia cobre os passos para iniciar um novo projeto Flutter e conectá-lo a u
 
 3. Crie o Repositório no GitHub
 
-    A- Primeiro, crie um novo repositório vazio diretamente no GitHub.
+        A- Primeiro, crie um novo repositório vazio diretamente no GitHub.
 
-    B- Acesse o GitHub e clique no botão "New".
+        B- Acesse o GitHub e clique no botão "New".
 
-    C- Dê um nome ao seu repositório. Por exemplo, meu_app_flutter. Lembre-se que o nome deve estar em letras minúsculas e usar _ (underscore) se tiver mais de uma palavra para seguir a convenção do Dart.
+        C- Dê um nome ao seu repositório. Por exemplo, meu_app_flutter. Lembre-se que o nome deve estar em letras minúsculas e usar _ (underscore) se tiver mais de uma palavra para seguir a convenção do Dart.
 
-    D-  Não marque a opção "Add a README file" ou ".gitignore". Deixe o repositório vazio.
+        D-  Não marque a opção "Add a README file" ou ".gitignore". Deixe o repositório vazio.
 
-    E- Clique em "Create repository".
+        E- Clique em "Create repository".
 
 4. Clone o Repositório para o seu Computador com o GitHub Desktop
     
-    A- Agora, traga o repositório vazio do GitHub para a sua máquina usando o GitHub Desktop.
+        A- Agora, traga o repositório vazio do GitHub para a sua máquina usando o GitHub Desktop.
 
-    B- Abra o GitHub Desktop.
+        B- Abra o GitHub Desktop.
 
-    C- No menu superior, vá em File > Clone a repository.
+        C- No menu superior, vá em File > Clone a repository.
 
-    D- Na janela que se abre, selecione a aba "GitHub.com". Você verá a lista dos seus repositórios.
+        D- Na janela que se abre, selecione a aba "GitHub.com". Você verá a lista dos seus repositórios.
 
-    E- Encontre o repositório que você acabou de criar na lista e selecione-o.
+        E- Encontre o repositório que você acabou de criar na lista e selecione-o.
 
-    F- Clique em "Choose..." para selecionar a pasta no seu computador onde você quer salvar o repositório.
+        F- Clique em "Choose..." para selecionar a pasta no seu computador onde você quer salvar o repositório.
 
-    G- Clique no botão "Clone".
+        G- Clique no botão "Clone".
 
-    H- Após a clonagem, o GitHub Desktop irá perguntar se você quer abrir o repositório. Selecione a opção para abrir com o Visual Studio Code.
+        H- Após a clonagem, o GitHub Desktop irá perguntar se você quer abrir o repositório. Selecione a opção para abrir com o Visual Studio Code.
 
     I- O VS Code será aberto na pasta do seu repositório, que ainda estará vazia.
 
