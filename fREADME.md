@@ -82,6 +82,7 @@ Este guia cobre os passos para iniciar um novo projeto Flutter e conectá-lo a u
 
 
 6.  Entenda a Estrutura de Pastas do Flutter
+    
     Após a criação, o Flutter gerará uma série de pastas e arquivos essenciais. É importante entender para que cada um serve:
 
         A. <android, ios, linux, macos, windows, web>: Essas pastas contêm os arquivos específicos para cada plataforma. Elas permitem que o seu aplicativo Flutter seja compilado e executado como um aplicativo nativo em cada sistema operacional, usando um único código-fonte na pasta lib.
@@ -97,6 +98,7 @@ Este guia cobre os passos para iniciar um novo projeto Flutter e conectá-lo a u
         F. <pubspec.yaml>: Este arquivo de configuração gerencia as dependências do seu projeto. É aqui que você adiciona pacotes (bibliotecas) de terceiros que deseja usar no seu aplicativo.
 
 7. Publique as Mudanças no GitHub
+
     Agora que o seu repositório local tem todos os arquivos do Flutter, é hora de enviá-los para o GitHub.
 
         A- Volte para o GitHub Desktop. Ele já terá detectado todas as mudanças (os novos arquivos do Flutter).
